@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+resource/ros_gz_crazyflie_control
+ros_gz_crazyflie_control/__init__.py
+ros_gz_crazyflie_control/control_services.py
+ros_gz_crazyflie_control.egg-info/PKG-INFO
+ros_gz_crazyflie_control.egg-info/SOURCES.txt
+ros_gz_crazyflie_control.egg-info/dependency_links.txt
+ros_gz_crazyflie_control.egg-info/entry_points.txt
+ros_gz_crazyflie_control.egg-info/requires.txt
+ros_gz_crazyflie_control.egg-info/top_level.txt
+ros_gz_crazyflie_control.egg-info/zip-safe

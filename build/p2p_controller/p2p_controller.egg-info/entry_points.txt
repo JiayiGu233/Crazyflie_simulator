@@ -1,0 +1,3 @@
+[console_scripts]
+move = p2p_controller.move:main
+

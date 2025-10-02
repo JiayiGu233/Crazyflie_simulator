@@ -1,0 +1,32 @@
+running develop
+Removing /home/uav/cs2_ws/install/p2p_controller/lib/python3.10/site-packages/p2p-controller.egg-link (link to .)
+running egg_info
+writing ../../build/p2p_controller/p2p_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/p2p_controller/p2p_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/p2p_controller/p2p_controller.egg-info/entry_points.txt
+writing requirements to ../../build/p2p_controller/p2p_controller.egg-info/requires.txt
+writing top-level names to ../../build/p2p_controller/p2p_controller.egg-info/top_level.txt
+reading manifest file '../../build/p2p_controller/p2p_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/p2p_controller/p2p_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/uav/cs2_ws/build/p2p_controller/build
+creating /home/uav/cs2_ws/build/p2p_controller/build/lib
+creating /home/uav/cs2_ws/build/p2p_controller/build/lib/p2p_controller
+copying p2p_controller/move.py -> /home/uav/cs2_ws/build/p2p_controller/build/lib/p2p_controller
+copying p2p_controller/__init__.py -> /home/uav/cs2_ws/build/p2p_controller/build/lib/p2p_controller
+running install
+running install_lib
+creating /home/uav/cs2_ws/install/p2p_controller/lib/python3.10/site-packages/p2p_controller
+copying /home/uav/cs2_ws/build/p2p_controller/build/lib/p2p_controller/move.py -> /home/uav/cs2_ws/install/p2p_controller/lib/python3.10/site-packages/p2p_controller
+copying /home/uav/cs2_ws/build/p2p_controller/build/lib/p2p_controller/__init__.py -> /home/uav/cs2_ws/install/p2p_controller/lib/python3.10/site-packages/p2p_controller
+byte-compiling /home/uav/cs2_ws/install/p2p_controller/lib/python3.10/site-packages/p2p_controller/move.py to move.cpython-310.pyc
+byte-compiling /home/uav/cs2_ws/install/p2p_controller/lib/python3.10/site-packages/p2p_controller/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/p2p_controller -> /home/uav/cs2_ws/install/p2p_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/uav/cs2_ws/install/p2p_controller/share/p2p_controller
+running install_egg_info
+Copying ../../build/p2p_controller/p2p_controller.egg-info to /home/uav/cs2_ws/install/p2p_controller/lib/python3.10/site-packages/p2p_controller-0.0.1-py3.10.egg-info
+running install_scripts
+Installing move script to /home/uav/cs2_ws/install/p2p_controller/bin
+writing list of installed files to '/home/uav/cs2_ws/build/p2p_controller/install.log'

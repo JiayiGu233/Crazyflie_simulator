@@ -1,0 +1,1 @@
+/home/uav/cs2_ws/build/crazyflie_interfaces/rosidl_cmake/srv/SetGroupMask_Request.msg

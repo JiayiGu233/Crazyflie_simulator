@@ -1,0 +1,12 @@
+source;share/p2p_controller/hook/path.ps1
+source;share/p2p_controller/hook/path.dsv
+source;share/p2p_controller/hook/path.sh
+source;share/p2p_controller/hook/pythonpath.ps1
+source;share/p2p_controller/hook/pythonpath.dsv
+source;share/p2p_controller/hook/pythonpath.sh
+source;share/p2p_controller/hook/pythonscriptspath.ps1
+source;share/p2p_controller/hook/pythonscriptspath.dsv
+source;share/p2p_controller/hook/pythonscriptspath.sh
+source;../../build/p2p_controller/share/p2p_controller/hook/pythonpath_develop.ps1
+source;../../build/p2p_controller/share/p2p_controller/hook/pythonpath_develop.dsv
+source;../../build/p2p_controller/share/p2p_controller/hook/pythonpath_develop.sh
