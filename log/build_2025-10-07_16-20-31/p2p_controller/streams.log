@@ -1,0 +1,17 @@
+[0.516s] Invoking command in '/home/uav/cs2_ws/build/p2p_controller': PYTHONPATH=/home/uav/cs2_ws/build/p2p_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uav/cs2_ws/install/p2p_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/uav/cs2_ws/build/p2p_controller/build --no-deps symlink_data
+[0.698s] running develop
+[0.810s] running egg_info
+[0.810s] writing p2p_controller.egg-info/PKG-INFO
+[0.810s] writing dependency_links to p2p_controller.egg-info/dependency_links.txt
+[0.810s] writing entry points to p2p_controller.egg-info/entry_points.txt
+[0.810s] writing requirements to p2p_controller.egg-info/requires.txt
+[0.810s] writing top-level names to p2p_controller.egg-info/top_level.txt
+[0.811s] reading manifest file 'p2p_controller.egg-info/SOURCES.txt'
+[0.812s] writing manifest file 'p2p_controller.egg-info/SOURCES.txt'
+[0.813s] running build_ext
+[0.813s] Creating /home/uav/cs2_ws/install/p2p_controller/lib/python3.10/site-packages/p2p-controller.egg-link (link to .)
+[0.815s] Installing move script to /home/uav/cs2_ws/install/p2p_controller/bin
+[0.815s] 
+[0.815s] Installed /home/uav/cs2_ws/build/p2p_controller
+[0.815s] running symlink_data
+[0.844s] Invoked command in '/home/uav/cs2_ws/build/p2p_controller' returned '0': PYTHONPATH=/home/uav/cs2_ws/build/p2p_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uav/cs2_ws/install/p2p_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/uav/cs2_ws/build/p2p_controller/build --no-deps symlink_data

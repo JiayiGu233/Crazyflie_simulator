@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing p2p_controller.egg-info/PKG-INFO
+writing dependency_links to p2p_controller.egg-info/dependency_links.txt
+writing entry points to p2p_controller.egg-info/entry_points.txt
+writing requirements to p2p_controller.egg-info/requires.txt
+writing top-level names to p2p_controller.egg-info/top_level.txt
+reading manifest file 'p2p_controller.egg-info/SOURCES.txt'
+writing manifest file 'p2p_controller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/uav/cs2_ws/install/p2p_controller/lib/python3.10/site-packages/p2p-controller.egg-link (link to .)
+Installing move script to /home/uav/cs2_ws/install/p2p_controller/bin
+
+Installed /home/uav/cs2_ws/build/p2p_controller
+running symlink_data

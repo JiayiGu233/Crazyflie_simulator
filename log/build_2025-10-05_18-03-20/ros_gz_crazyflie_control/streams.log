@@ -1,0 +1,17 @@
+[0.722s] Invoking command in '/home/uav/cs2_ws/build/ros_gz_crazyflie_control': PYTHONPATH=/home/uav/cs2_ws/build/ros_gz_crazyflie_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uav/cs2_ws/install/ros_gz_crazyflie_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/uav/cs2_ws/build/ros_gz_crazyflie_control/build --no-deps symlink_data
+[0.957s] running develop
+[1.104s] running egg_info
+[1.105s] writing ros_gz_crazyflie_control.egg-info/PKG-INFO
+[1.105s] writing dependency_links to ros_gz_crazyflie_control.egg-info/dependency_links.txt
+[1.105s] writing entry points to ros_gz_crazyflie_control.egg-info/entry_points.txt
+[1.105s] writing requirements to ros_gz_crazyflie_control.egg-info/requires.txt
+[1.105s] writing top-level names to ros_gz_crazyflie_control.egg-info/top_level.txt
+[1.106s] reading manifest file 'ros_gz_crazyflie_control.egg-info/SOURCES.txt'
+[1.107s] writing manifest file 'ros_gz_crazyflie_control.egg-info/SOURCES.txt'
+[1.108s] running build_ext
+[1.108s] Creating /home/uav/cs2_ws/install/ros_gz_crazyflie_control/lib/python3.10/site-packages/ros-gz-crazyflie-control.egg-link (link to .)
+[1.109s] Installing control_services script to /home/uav/cs2_ws/install/ros_gz_crazyflie_control/lib/ros_gz_crazyflie_control
+[1.109s] 
+[1.109s] Installed /home/uav/cs2_ws/build/ros_gz_crazyflie_control
+[1.109s] running symlink_data
+[1.138s] Invoked command in '/home/uav/cs2_ws/build/ros_gz_crazyflie_control' returned '0': PYTHONPATH=/home/uav/cs2_ws/build/ros_gz_crazyflie_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uav/cs2_ws/install/ros_gz_crazyflie_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/uav/cs2_ws/build/ros_gz_crazyflie_control/build --no-deps symlink_data

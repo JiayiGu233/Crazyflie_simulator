@@ -1,0 +1,16 @@
+[0.600s] Invoking command in '/home/uav/cs2_ws/build/crazyflie_py': CMAKE_PREFIX_PATH=/home/uav/cs2_ws/install/crazyflie_interfaces:/home/uav/cs2_ws/install/ros_gz_crazyflie_bringup:/home/uav/cs2_ws/install/ros_gz_crazyflie_gazebo:/home/uav/cs2_ws/install/crazyflie_sim:/home/uav/cs2_ws/install/crazyflie_examples:/home/uav/cs2_ws/install/crazyflie:/home/uav/cs2_ws/install/crazyflie_description PYTHONPATH=/home/uav/cs2_ws/build/crazyflie_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uav/cs2_ws/install/crazyflie_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/uav/cs2_ws/build/crazyflie_py/build --no-deps symlink_data
+[0.803s] running develop
+[0.950s] running egg_info
+[0.950s] writing crazyflie_py.egg-info/PKG-INFO
+[0.951s] writing dependency_links to crazyflie_py.egg-info/dependency_links.txt
+[0.951s] writing entry points to crazyflie_py.egg-info/entry_points.txt
+[0.951s] writing requirements to crazyflie_py.egg-info/requires.txt
+[0.951s] writing top-level names to crazyflie_py.egg-info/top_level.txt
+[0.953s] reading manifest file 'crazyflie_py.egg-info/SOURCES.txt'
+[0.953s] writing manifest file 'crazyflie_py.egg-info/SOURCES.txt'
+[0.955s] running build_ext
+[0.955s] Creating /home/uav/cs2_ws/install/crazyflie_py/lib/python3.10/site-packages/crazyflie-py.egg-link (link to .)
+[0.957s] 
+[0.957s] Installed /home/uav/cs2_ws/build/crazyflie_py
+[0.957s] running symlink_data
+[0.983s] Invoked command in '/home/uav/cs2_ws/build/crazyflie_py' returned '0': CMAKE_PREFIX_PATH=/home/uav/cs2_ws/install/crazyflie_interfaces:/home/uav/cs2_ws/install/ros_gz_crazyflie_bringup:/home/uav/cs2_ws/install/ros_gz_crazyflie_gazebo:/home/uav/cs2_ws/install/crazyflie_sim:/home/uav/cs2_ws/install/crazyflie_examples:/home/uav/cs2_ws/install/crazyflie:/home/uav/cs2_ws/install/crazyflie_description PYTHONPATH=/home/uav/cs2_ws/build/crazyflie_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uav/cs2_ws/install/crazyflie_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/uav/cs2_ws/build/crazyflie_py/build --no-deps symlink_data
